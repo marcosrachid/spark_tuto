@@ -1,0 +1,4 @@
+*.log
+*.ipynb
+metastore_db/
+spark-warehouse/
